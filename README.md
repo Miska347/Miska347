@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Discord: miska347
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miska347&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Miska347&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Miska347&theme=dark&hide_border=false)<br/>
 
 ---
